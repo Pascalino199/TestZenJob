@@ -18,6 +18,6 @@ python search.py
 
 For automation the sleep time may be not long enough on slow machines.
 
-I hope it fits what you were expecting.
+I hope it matches what you were expecting.
 
 Please contact me for any remarks.
